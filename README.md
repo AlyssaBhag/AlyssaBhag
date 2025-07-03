@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me :
 Welcome to my GitHub! I'm currently a Computer Programming and Analysis student with a deep passion for software development and a long-term goal of becoming a well-rounded full-stack developer. With a strong appreciation for both logic and creativity, I enjoy taking complex ideas and turning them into clean, user-friendly experiences.
 
 I'm especially interested in building responsive, intuitive web applications, exploring the art and logic behind game development, and even diving into legacy technologies like COBOL.
